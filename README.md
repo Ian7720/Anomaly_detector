@@ -13,8 +13,7 @@
    ```bash
    pip install numpy opencv-python scikit-learn
    ```
-2. **Change Icon Directory**:
-   Update the directory path of the icon in the code to the correct location on your system.
 
 ## Sample Output
+![sampleoutput](https://github.com/user-attachments/assets/e01c3e90-7b7a-44c5-9f4e-83e0477630b5)
 
